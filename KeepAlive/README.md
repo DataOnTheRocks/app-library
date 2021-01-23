@@ -6,7 +6,7 @@ The default value to execute a web socket request to the engine is set at 25 min
 The minimum allowed value is 14 minutes, to minimize the server impact and assuming virtual proxy sessions would not timeout below 15 minutes.
 
 Preview:
- ![screenshot](https://github.com/DataOnTheRocks/app-library/tree/master/KeepAlive/Screenshot.png "screenshot")
+ ![screenshot](https://github.com/DataOnTheRocks/app-library/tree/master/KeepAlive/Screenshot.gif "screenshot")
 
 This basic and lightweight extension goes invisible as you exit the edit mode.
 
