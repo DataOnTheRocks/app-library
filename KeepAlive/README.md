@@ -1,4 +1,4 @@
-# Qlik Sense Keep ALive generic extension
+# Qlik Sense Keep Alive generic extension
 
 Qlik Sense extension to keep a Session active.
 
@@ -19,3 +19,4 @@ How does it work?
 The extension will query the list of variable: app.getList('VariableList');
 You can easily change this for something else if this is not optimal for your apps.
 
+![Image](https://user-images.githubusercontent.com/9445066/105615451-12ce7380-5dd1-11eb-894d-fdb2b84ecef8.gif)
