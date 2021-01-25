@@ -5,6 +5,6 @@
 	"type" : "visualization",
 	"version": "1.0.0",
 	"author": "Bruno Gomes",
-	"email": "cliente@digitalartis.com",
+	"email": "clientes@digitalartis.com",
 	"dependencies" : { "qlik-sense" : ">=3.0.x" }
 }
