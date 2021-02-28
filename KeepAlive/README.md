@@ -3,7 +3,7 @@
 Qlik Sense extension to keep a Session active.
 
 The default value to execute a web socket request to the engine is set at 25 minutes.
-The minimum allowed value is 14 minutes, to minimize the server impact and assuming virtual proxy sessions would not timeout below 15 minutes.
+The minimum allowed value is 14 minutes, to minimize the server impact and assuming virtual proxy sessions would not timeout before 15 minutes.
 
 Preview:
 
